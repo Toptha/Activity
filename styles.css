@@ -127,6 +127,7 @@ h1, h2 {
 
 .project-card:hover {
     transform: translateY(-5px);
+    background-color: black;
 }
 
 .project-card img {
